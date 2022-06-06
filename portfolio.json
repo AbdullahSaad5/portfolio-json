@@ -6,7 +6,7 @@
     "HTML" : "2",
     "CSS" : "2",
     "JS" : "1.5",
-    "React" "0.5",
+    "React":"0.5",
     "React Native": "0.3",
   },
   "hobbies": ["Coding", "Tech Exploration", "Travelling", "Sports", "Book Reading"],
