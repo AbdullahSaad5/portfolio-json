@@ -2,17 +2,39 @@
 	"name": "Syed Abdullah Saad",
 	"image": "https://media-exp2.licdn.com/dms/image/C4E03AQGRWWRilnBnCA/profile-displayphoto-shrink_800_800/0/1600838534215?e=1660176000&v=beta&t=xCW9U_ufIzGy8wVAnKbAz18AnONuPHQjIaxzGuUFkWQ",
 	"description": "I'm a Computer Science student pursuing my Bachelors degree at COMSATS University, Islamabad. I have a keen interest in Web Development and currently learning Front End Development on my own.",
-	"skills": {
-		"HTML": "2",
-		"CSS": "2",
-		"JS": "1.5",
-		"React": "0.5",
-		"React Native": "0.3"
-	},
+	"skills": [{
+			"skill": "HTML",
+			"experience": "2"
+		},
+		{
+			"skill": "CSS",
+			"experience": "2"
+		},
+		{
+			"skill": "JS",
+			"experience": "1.5"
+		},
+		{
+			"skill": "React",
+			"experience": "0.5"
+		},
+		{
+			"skill": "React Native",
+			"experience": "0.3"
+		}
+	],
 	"hobbies": ["Coding", "Tech Exploration", "Travelling", "Sports", "Book Reading"],
-	"projects": {
-		"Playtaeu": "https://github.com/AbdullahSaad5/playtaeu",
-		"Music Player": "https://github.com/AbdullahSaad5/Music-Player",
-		"Joke Teller": "https://github.com/AbdullahSaad5/Joke-Teller"
-	}
+	"projects": [{
+			"name": "Playtaeu",
+			"link": "https://github.com/AbdullahSaad5/playtaeu"
+		},
+		{
+			"name": "Music Player",
+			"link": "https://github.com/AbdullahSaad5/Music-Player"
+		},
+		{
+			"name": "Joke Teller",
+			"link": "https://github.com/AbdullahSaad5/Joke-Teller"
+		}
+	]
 }
